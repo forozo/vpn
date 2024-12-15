@@ -386,7 +386,7 @@ export async function renderHomePage (proxySettings, isPassSet) {
         </style>
     </head>
     <body>
-        <h1>BPB Panel <span style="font-size: smaller;">${globalThis.panelVersion}</span> 💦</h1>
+        <h1>BPB Panel <span style="font-size: smaller;">${globalThis.panelVersion}</span> 😎</h1>
         <div class="form-container">
             <form id="configForm">
                 <details open>
